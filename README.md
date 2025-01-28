@@ -39,8 +39,4 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/lUU0bTz8YPEAAAAi/dudu-cute-nice.gif"  />
-</div>
-
 ###
